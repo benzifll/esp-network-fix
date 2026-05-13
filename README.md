@@ -1,4 +1,4 @@
-# ASOA 3.1 - Raspberry Pi Bridge Instructions
+Raspberry Pi Bridge Instructions
 
 This directory contains `raspberry_bridge.sh`. Follow these steps to set up your Raspberry Pi:
 
